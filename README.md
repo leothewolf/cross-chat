@@ -18,13 +18,32 @@
 ## 🔎 Overview
 **Cross Chat** is a discord bot which is used to link channels over different servers, further users in this channel can cross chat with people in other channels.
 
+<br>
+
 **What are networks?**
 > A **network of channels** can be formed in which user can cross chat. There are global networks which you can join. You can also create your own network, to create one contact staff on support server.
 
 <br>
 
-**What are some global networks I can join?**
+**What are some global networks channel can be joined to?**
 > <img src="https://raw.githubusercontent.com/leothewolf/cross-chat/main/unknown.png" alt="Cross Chat Discord Bot">
-> <br>
->
-> Use `cstart command` within channel to connect the channel to the network
+
+<br>
+
+**How to setup cross chat bot?**
+> Use `/cstart` command within channel to connect the channel to the network
+
+<br>
+
+**How to stop cross chat within a channel?**
+> Use `/cstop` command within channel to remove the channel from the network
+
+<br>
+
+## 🔗 Links
+
+Privacy Policy : https://github.com/leothewolf/cross-chat/blob/main/privacy_policy.md
+
+Support Server : https://discord.gg/AAQvCG3r
+
+Bot Invite Link : https://discord.com/api/oauth2/authorize?client_id=996016175110705183&permissions=2684480577&scope=bot
